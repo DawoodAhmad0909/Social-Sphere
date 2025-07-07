@@ -2,19 +2,19 @@
 ## Overview 
 This project models a simplified social media platform with core features such as user registration, posting, liking, commenting, following, direct messaging, and notifications. The schema includes the following main tables:
 
-users: Stores account information and profile details.
+ •users: Stores account information and profile details.
 
-posts: Contains user-generated content (text, images, videos).
+ •posts: Contains user-generated content (text, images, videos).
 
-comments, likes: Support user engagement.
+ •comments, likes: Support user engagement.
 
-follows: Represents follower-following relationships.
+ •follows: Represents follower-following relationships.
 
-messages: Enables direct messaging between users.
+ •messages: Enables direct messaging between users.
 
-notifications: Alerts users about interactions.
+ •notifications: Alerts users about interactions.
 
-hashtags and post_hashtags: Enable hashtag tagging and trend tracking.
+ •hashtags and post_hashtags: Enable hashtag tagging and trend tracking.
 
 
 Each table has been populated with sample data to support realistic analysis and reporting.
